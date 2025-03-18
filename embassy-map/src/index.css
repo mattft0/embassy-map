@@ -1,0 +1,42 @@
+/* Styles globaux */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+/* Styles spécifiques à la carte */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+/* Styles pour les marqueurs de la carte */
+.flag {
+  width: 50px;
+  height: auto;
+}
+
+.app-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 100vh;
+}
+
+.embassy-list {
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.embassy-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.map-container {
+  height: 100vh;
+  width: 100%;
+}

@@ -1,0 +1,166 @@
+{
+  "United States": {
+    "title": "CISA Releases Six Industrial Control Systems Advisories",
+    "link": "https://www.cisa.gov/news-events/alerts/2025/02/06/cisa-releases-six-industrial-control-systems-advisories",
+    "description": "CISA released six Industrial Control Systems (ICS) advisories on February 6, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-037-01 Schneider Electric EcoStruxure Power Monitoring Expert (PME) ICSA-25-037-02 Schneider Electric EcoStruxure ICSA-25-037-03 ABB Drive Composer ICSA-25-037-04 Trimble Cityworks ICSMA-25-037-01 MicroDicom DICOM Viewer ICSMA-25-037-02 Orthanc Server CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
+    "pubDate": "Thu, 06 Feb 25 12:00:00 +0000",
+    "lastFetched": "2025-03-17T14:28:51.550907",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 100.0
+  },
+  "Canada": {
+    "title": "Bulletin de sécurité Red Hat (AV25-144)",
+    "link": "https://cyber.gc.ca/fr/alertes-avis/bulletin-securite-red-hat-av25-144",
+    "description": null,
+    "pubDate": "2025-03-17T13:16:54Z",
+    "lastFetched": "2025-03-17T14:28:52.028972",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 97.49
+  },
+  "Germany": {
+    "title": "Größter Diebstahl der Geschichte: Bybit nutzte Freeware und wurde dadurch Opfer",
+    "link": "https://www.heise.de/news/Groesster-Diebstahl-der-Geschichte-Bybit-nutzte-Freeware-und-wurde-dadurch-Opfer-10309241.html",
+    "description": "Eine unsichere Freeware ermöglichte den Angreifern den Milliarden-Diebstahl bei Bybit. Die Probleme waren schon lang bekannt.",
+    "pubDate": "2025-03-08T16:42:00.000Z",
+    "lastFetched": "2025-03-17T14:28:51.597386",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 98.52
+  },
+  "United Kingdom": {
+    "title": "Ransomware thugs threaten Tata Technologies with leak if demands not met",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/03/05/tata_technologies_hiunters_international/",
+    "description": "Hunters International ready to off-shore 1.4 TB of info allegedly swiped from Indian giant A subsidiary of Indian multinational Tata has allegedly fallen victim to the notorious ransomware gang Hunters International.…",
+    "pubDate": "Wed, 05 Mar 2025 01:14:08 GMT",
+    "lastFetched": "2025-03-17T14:28:51.675847",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 99.54
+  },
+  "Italy": {
+    "title": "Privacy differenziale: il NIST chiarisce le applicazioni pratiche e le sfide future",
+    "link": "https://www.cybersecurity360.it/news/privacy-differenziale-il-nist-chiarisce-le-applicazioni-pratiche-e-le-sfide-future/",
+    "description": "Il NIST pubblica nuove linee guida con l’obiettivo di supportare aziende, enti pubblici e professionisti a comprendere l'applicazione pratica della privacy differenziale e i rischi legati a questa tecnologia, come quello degli “attacchi di ricostruzione” dei dati presenti nei dataset. Ecco i punti cardine L'articolo Privacy differenziale: il NIST chiarisce le applicazioni pratiche e le sfide future proviene da Cyber Security 360.",
+    "pubDate": "Mon, 17 Mar 2025 10:24:00 +0000",
+    "lastFetched": "2025-03-17T14:28:51.555999",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 95.43
+  },
+  "Spain": {
+    "title": "BBVA arma un plan para hacer frente a las amenazas de la futura era cuántica",
+    "link": "https://www.cio.com/article/3846727/bbva-toma-la-delantera-a-las-amenazas-cuanticas-este-es-su-plan-pionero-para-transformar-la-ciberseguridad.html",
+    "description": "",
+    "pubDate": "Mon, 17 Mar 2025 12:26:05 +0000",
+    "lastFetched": "2025-03-17T14:28:51.547207",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 96.46
+  },
+  "France": {
+    "title": "Multiples vulnérabilités dans les produits IBM (14 mars 2025)",
+    "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0214/",
+    "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "pubDate": "Fri, 14 Mar 2025 14:02:43 +0000",
+    "lastFetched": "2025-03-17T14:28:51.539778",
+    "summary": "Non disponible",
+    "translation": "Non disponible"
+  },
+  "Japan": {
+    "title": "[ITmedia PC USER] 「Snapdragon Gシリーズ」でどこでもゲーム！ ポータブルゲーム機にもQualcomm製新SoCが続々登場",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2503/17/news171.html",
+    "description": "Qualcommが、Androidベースのポータブルゲーム機向けSoCの新世代を発表した。いずれも先代よりもパフォーマンスを改善しており、より快適にゲームを楽しめるという。",
+    "pubDate": "Mon, 17 Mar 2025 22:00:00 +0900",
+    "lastFetched": "2025-03-17T14:28:52.534008",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 97.49
+  },
+  "Russia": {
+    "title": "Проникновение в Jenkins или история одного взлома",
+    "link": "https://habr.com/ru/articles/891456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=891456",
+    "description": "Временами получается поучаствовать в разгребании последствий «взломов с проникновением» в чужие ИТ-системы, по итогам одного такого расследования и была написана эта статья. Восстановил для вас полную картину. Читать далее",
+    "pubDate": "Mon, 17 Mar 2025 08:17:42 GMT",
+    "lastFetched": "2025-03-17T14:28:52.027853",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 92.34
+  },
+  "South Korea": {
+    "title": "7대 항공·철도사고조사위원회 위원장에 권진회 경상국립대 총장",
+    "link": "https://zdnet.co.kr/view/?no=20250317211111",
+    "description": "[지디넷코리아]항공·철도사고조사위원회는 제7대 신임 위원장에 권진회 경상국립대학교 총장이 임명됐다고 17일 밝혔다. 신임 위원장의 임기는 17일부터 2028년 3월 16일까지 3년간이다.사조위는 ‘항공·철도사고조사에관한법률’에 따라 설립된 위원회로, 항공·철도 사고조사, 사고조사보고서의 작성·의결 및 공표, 안전권고 등 항공·철도사고의 원인 규명과 예방을 위한 사고조사를 독립적으로 수행하고 있다.신임 권진회 위원장은 항공분야 전문가로 역량과 풍부한 행정 경험을 바탕으로 항공사고조사 등 주요 현안을 차질 없이 이끌어 나갈 것으로 기대된다.특히, 1997년부터 경상국립대학교 항공우주공학과 교수로 재직하며 항공기부품기술연구소장을 역임했고 2012년 4월부터 2024년 3월까지 사조위 항공분과 위원으로 활동했다.현재 한국항공우주학회 석학회원, 우주항공정책포럼 공동회장으로도 활동하는 등 풍부한 경험과 전문성을 토대로 항공 분야 발전에 기여해 왔다.권진회 항공·철도사고조사위원장은 “국민적 안전보장과 공정한 정책수행을 위한 사고조사의 독립성을 강화하고, 항공·철도사고조사 시스템의 신뢰도를 높여 사고재발 방지 기여에 최선을 다할 것”이라고 말했다.",
+    "pubDate": "Mon, 17 Mar 2025 21:11:11 +0900",
+    "lastFetched": "2025-03-17T14:28:56.030162",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 97.49
+  },
+  "India": {
+    "title": "Top 10 Cybersecurity Companies in India",
+    "link": "https://cyberops.in/blog/top-10-cybersecurity-companies-in-india/",
+    "description": "India, with its rapidly growing digital landscape, has witnessed a surge in cybersecurity threats. To... The post Top 10 Cybersecurity Companies in India appeared first on Cyberops.",
+    "pubDate": "Thu, 23 Jan 2025 10:47:04 +0000",
+    "lastFetched": "2025-03-17T14:28:52.719046",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 93.37
+  },
+  "Thailand": {
+    "title": "Warning! Malicious PyPI Packages Stealing Cloud Tokens Downloaded Over 14,100 Times Before Removal",
+    "link": "https://www.thaicert.or.th/en/2025/03/17/warning-malicious-pypi-packages-stealing-cloud-tokens-downloaded-over-14100-times-before-removal/",
+    "description": null,
+    "pubDate": "Mon, 17 Mar 2025 08:26:10 +0000",
+    "lastFetched": "2025-03-17T14:28:52.241570",
+    "summary": "Non disponible",
+    "translation": "Non disponible",
+    "cyberScore": 90.28
+  },
+  "Vietnam": {
+    "error": "Impossible de récupérer le flux RSS",
+    "lastFetched": "2025-03-17T14:28:51.918792"
+  },
+  "China": {
+    "error": "Impossible de récupérer le flux RSS",
+    "lastFetched": "2025-03-17T14:28:56.327341"
+  },
+  "Malaysia": {
+    "error": "Impossible de parser le flux RSS",
+    "lastFetched": "2025-03-17T14:28:55.067338"
+  },
+  "Egypt": {
+    "error": "Impossible de parser le flux RSS",
+    "lastFetched": "2025-03-17T14:28:51.967145"
+  },
+  "Saudi Arabia": {
+    "error": "Impossible de parser le flux RSS",
+    "lastFetched": "2025-03-17T14:28:52.712732"
+  },
+  "Iran": {
+    "error": "Impossible de récupérer le flux RSS",
+    "lastFetched": "2025-03-17T14:28:58.325212"
+  },
+  "Brazil": {
+    "error": "Impossible de parser le flux RSS",
+    "lastFetched": "2025-03-17T14:28:52.088804"
+  },
+  "Morocco": {
+    "error": "Impossible de récupérer le flux RSS",
+    "lastFetched": "2025-03-17T14:28:55.068382"
+  },
+  "Algeria": {
+    "title": "Scientific Events",
+    "link": "https://www.cerist.dz/index.php/en/actualites-evenements-2/903-actualites-evenementsen-2",
+    "description": "{slider=At CERIST} {loadposition position-37}{/slider}{slider=In Algeria} {loadposition position-7} ARCHIVES {/slider}{slider=International} {loadposition position-27} ARCHIVES {/slider}",
+    "pubDate": "Thu, 19 Mar 2015 14:44:41 +0000",
+    "lastFetched": "2025-03-17T14:28:51.667436",
+    "summary": "Non disponible",
+    "translation": "Non disponible"
+  },
+  "Australia": {
+    "error": "Impossible de parser le flux RSS",
+    "lastFetched": "2025-03-17T14:28:56.355733"
+  }
+}
