@@ -1,7 +1,5 @@
 # Embassy Map 🌍
 
-<img src="public/vite.svg" alt="Vite Logo" width="40" style="vertical-align:middle;"/> <img src="src/assets/react.svg" alt="React Logo" width="40" style="vertical-align:middle;"/>
-
 **Embassy Map** is a web application that displays the cybersecurity status of different countries through their embassies on an interactive map, based on official RSS feeds and cybersecurity scores.
 
 ---
@@ -10,7 +8,7 @@
 
 | High Security | Low Security |
 |:--------------:|:--------------:|
-| <img src="public/marker-icon-green.png" width="30"/> | <img src="public/marker-icon-red.png" width="30"/> |
+| <img src="/embassy-map/public/marker-icon-green.png" width="30"/> | <img src="/embassy-map/public/marker-icon-red.png" width="30"/> |
 
 - Green markers indicate good cybersecurity.
 - Red markers signal high risk or unavailability.
